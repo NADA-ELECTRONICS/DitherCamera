@@ -1,7 +1,7 @@
 # DitherCamera
 DitherCamera for Raspberry Pi Zero W
 
-# ディザカメラ（Dither Camera）
+# ディザカメラ
 [AS-289R2 Thermal Printer Shield](http://www.nada.co.jp/as289r2/)  
 [Raspberry Pi Zero W](https://www.raspberrypi.org/)  
 [Raspberry Pi Camera Module V2](https://www.raspberrypi.org/)  
