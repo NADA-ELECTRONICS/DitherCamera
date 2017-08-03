@@ -6,6 +6,8 @@ DitherCamera for Raspberry Pi Zero W
 [Raspberry Pi Zero W](https://www.raspberrypi.org/)  
 [Raspberry Pi Camera Module V2](https://www.raspberrypi.org/)  
 
+![DitherCamera](https://github.com/NADA-ELECTRONICS/DitherCamera/blob/master/photo.jpg)
+
 # 配線
 RPi Zero W (TxD) -> (RxD) AS-289R2  
 RPi Zero W (GND) -- (GND) AS-289R2  
