@@ -17,6 +17,11 @@ RPi Zero W (GND) -- (COM) シャッターSW
 次にimagemagickを使ってimage.jpgをグレースケールに変換、ディザリング処理により画像を2値化変換しimage.bmp(横384px、縦512px、1bpp)を生成します。  
 最後にimage.bmpをAS-289R2に出力します。  
 
+# imagemagickのインストール
+```
+sudo apt-get install imagemagick
+```
+
 # Lisence
 Dither Camera for RPi Zero W  
 NADA ELECTRONICS, LTD.  
