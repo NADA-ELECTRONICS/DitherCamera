@@ -19,6 +19,7 @@ RPi Zero W (GND) -- (COM) シャッターSW
 
 # imagemagickのインストール
 ```
+sudo apt-get update
 sudo apt-get install imagemagick
 ```
 
