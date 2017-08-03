@@ -13,9 +13,9 @@ RPi Zero W (GPIO18) -- (N.O.) シャッターSW
 RPi Zero W (GND) -- (COM) シャッターSW  
 
 # 処理
-シャッターが押されるとカメラで撮影、画像の回転とリサイズを行いimage.jpgを生成します。  
-次にimagemagickを使ってimage.jpgをグレースケールに変換、ディザリング処理により画像を2値化変換しimage.bmp(横384px、縦512px、1bpp)を生成します。  
-最後にimage.bmpをAS-289R2に出力します。  
+シャッターが押されるとカメラで撮影、画像の回転とリサイズを行いimage.bmpを生成します。  
+次にimagemagickを使ってimage.bmpをグレースケールに変換、ディザリング処理により画像を2値化変換しimage1.bmp(横384px、縦512px、1bpp)を生成します。  
+最後にimage1.bmpをAS-289R2に出力します。  
 
 # imagemagickのインストール
 ```
