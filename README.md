@@ -24,7 +24,7 @@ sudo apt-get install imagemagick
 ```
 # UARTを使用するには
 シリアルコンソールとBluetoothを止めて、汎用UARTとして利用するには下記作業が必要です。  
-/boot/cmdline.txt中の「console=serial0,115200」を削除  
+/boot/cmdline.txt中の「console=serial0,115200」を削除  
 /boot/config.txtに「enable_uart=1」と「dtoverlay=pi3-disable-bt」を追加  
 
 # Lisence
